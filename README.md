@@ -1,2 +1,7 @@
-# https-mcp-cables-live-openapi-json
-An agent-native, pay-per-call MCP resource server exposing 168 TensorFlow.js machine-learning analytics tools (image classification, object detection, NLP, forecasting, and social-media analytics for YouTube, Instagram, TikTok, Twitter/X, Facebook, Discord, and Twitch). Each tool call is monetized v
+# Cables (renamed)
+
+This submission arrived with a URL pasted as its name. It has been re-listed under the
+correct identity at **api-evangelist/cables** (the Cables MCP server, mcp.cables.live).
+
+This repository is retained only as a redirect stub; see api-evangelist/cables for the
+live profile.
